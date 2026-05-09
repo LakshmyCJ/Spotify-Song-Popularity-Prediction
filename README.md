@@ -1,2 +1,1 @@
-# Spotify-Song-Popularity-Prediction
-This project involves developing models to predict song popularity and optimize Spotify’s recommendation system to enhance user engagement.
+This project explores Spotify track data to predict song popularity using machine learning techniques. Audio features such as danceability, energy, loudness, acousticness, tempo, and valence were analyzed to understand their influence on listener engagement and popularity.
