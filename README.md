@@ -49,11 +49,6 @@ This project analyzes over 1,500 Spotify tracks released between 1998 and 2020 t
 - Feature Engineering
 - Business Analytics
 
-## Repository Structure
-├── data/              # Dataset files
-├── notebooks/         # Analysis notebooks
-├── presentation/      # Project presentation
-└── README.md
 
 ## Key Takeaway
 This project demonstrates an end-to-end analytical workflow, from preparing raw data and exploring patterns to building predictive models and translating findings into actionable insights.
